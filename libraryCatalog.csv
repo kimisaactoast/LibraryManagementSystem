@@ -1,0 +1,101 @@
+Title,Author,ISBN,Availability,ReturnDate
+To Kill a Mockingbird,Harper Lee,9780061120084,False,2025-03-07
+1984,George Orwell,9780451524935,True,N/A
+Pride and Prejudice,Jane Austen,9781503290563,True,N/A
+The Great Gatsby,F. Scott Fitzgerald,9780743273565,False,2025-03-10
+Moby-Dick,Herman Melville,9781503280786,False,2025-03-17
+War and Peace,Leo Tolstoy,9781853260629,False,2025-02-19
+The Catcher in the Rye,J.D. Salinger,9780316769488,False,2025-03-06
+Crime and Punishment,Fyodor Dostoevsky,9780486415871,True,N/A
+Brave New World,Aldous Huxley,9780060850524,False,2025-02-23
+The Odyssey,Homer,9780140268867,False,2025-02-28
+The Hobbit,J.R.R. Tolkien,9780547928227,True,N/A
+Ulysses,James Joyce,9780199535675,True,N/A
+The Divine Comedy,Dante Alighieri,9780140448955,False,2025-03-03
+Les Misérables,Victor Hugo,9780451419439,False,2025-02-28
+The Brothers Karamazov,Fyodor Dostoevsky,9780374528379,True,N/A
+Anna Karenina,Leo Tolstoy,9780143035008,False,2025-03-06
+Don Quixote,Miguel de Cervantes,9780060934347,True,N/A
+Jane Eyre,Charlotte Brontë,9780141441146,False,2025-03-03
+Wuthering Heights,Emily Brontë,9780141439556,True,N/A
+Great Expectations,Charles Dickens,9780141439563,False,2025-02-21
+Dracula,Bram Stoker,9780486411095,True,N/A
+The Picture of Dorian Gray,Oscar Wilde,9780141439570,True,N/A
+Fahrenheit 451,Ray Bradbury,9781451673319,False,2025-02-28
+Lord of the Flies,William Golding,9780399501487,True,N/A
+The Scarlet Letter,Nathaniel Hawthorne,9780486280486,False,2025-03-19
+Frankenstein,Mary Shelley,9780486282114,False,2025-03-18
+The Count of Monte Cristo,Alexandre Dumas,9780140449266,True,N/A
+The Grapes of Wrath,John Steinbeck,9780143039433,False,2025-03-10
+A Tale of Two Cities,Charles Dickens,9780141439600,False,2025-03-06
+The Sun Also Rises,Ernest Hemingway,9780743297332,False,2025-03-07
+Slaughterhouse-Five,Kurt Vonnegut,9780440180296,False,2025-02-26
+Heart of Darkness,Joseph Conrad,9780486264646,False,2025-02-23
+Madame Bovary,Gustave Flaubert,9780140449129,False,2025-03-04
+The Stranger,Albert Camus,9780679720201,True,N/A
+Catch-22,Joseph Heller,9781451626650,True,N/A
+The Old Man and the Sea,Ernest Hemingway,9780684801223,False,2025-03-05
+One Hundred Years of Solitude,Gabriel García Márquez,9780060883287,True,N/A
+Beloved,Toni Morrison,9781400033416,True,N/A
+The Road,Cormac McCarthy,9780307387899,False,2025-03-06
+On the Road,Jack Kerouac,9780140283297,True,N/A
+The Alchemist,Paulo Coelho,9780061122415,True,N/A
+Gone with the Wind,Margaret Mitchell,9781416548942,True,N/A
+A Clockwork Orange,Anthony Burgess,9780393312836,True,N/A
+Dune,Frank Herbert,9780441013593,True,N/A
+The Lord of the Rings,J.R.R. Tolkien,9780544003415,False,2025-03-14
+The Shining,Stephen King,9780307743657,False,2025-02-23
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,9780345391803,True,N/A
+Harry Potter and the Sorcerer’s Stone,J.K. Rowling,9780590353427,True,N/A
+The Stand,Stephen King,9780307743688,False,2025-03-08
+It,Stephen King,9781501142971,False,2025-02-18
+To Kill a Mockingbird,Harper Lee,9780061120084,False,2025-02-18
+1984,George Orwell,9780451524935,False,2025-03-18
+Pride and Prejudice,Jane Austen,9781503290563,False,2025-03-17
+The Great Gatsby,F. Scott Fitzgerald,9780743273565,True,N/A
+Moby-Dick,Herman Melville,9781503280786,True,N/A
+War and Peace,Leo Tolstoy,9781853260629,True,N/A
+The Catcher in the Rye,J.D. Salinger,9780316769488,False,2025-02-23
+Crime and Punishment,Fyodor Dostoevsky,9780486415871,False,2025-03-18
+Brave New World,Aldous Huxley,9780060850524,False,2025-03-11
+The Odyssey,Homer,9780140268867,True,N/A
+The Hobbit,J.R.R. Tolkien,9780547928227,True,N/A
+Ulysses,James Joyce,9780199535675,False,2025-02-18
+The Divine Comedy,Dante Alighieri,9780140448955,False,2025-02-28
+Les Misérables,Victor Hugo,9780451419439,True,N/A
+The Brothers Karamazov,Fyodor Dostoevsky,9780374528379,True,N/A
+Anna Karenina,Leo Tolstoy,9780143035008,False,2025-02-24
+Don Quixote,Miguel de Cervantes,9780060934347,False,2025-02-28
+Jane Eyre,Charlotte Brontë,9780141441146,False,2025-02-23
+Wuthering Heights,Emily Brontë,9780141439556,False,2025-02-21
+Great Expectations,Charles Dickens,9780141439563,False,2025-03-06
+Dracula,Bram Stoker,9780486411095,True,N/A
+The Picture of Dorian Gray,Oscar Wilde,9780141439570,False,2025-02-26
+Fahrenheit 451,Ray Bradbury,9781451673319,True,N/A
+Lord of the Flies,William Golding,9780399501487,False,2025-02-26
+The Scarlet Letter,Nathaniel Hawthorne,9780486280486,False,2025-03-04
+Frankenstein,Mary Shelley,9780486282114,False,2025-02-18
+The Count of Monte Cristo,Alexandre Dumas,9780140449266,False,2025-02-25
+The Grapes of Wrath,John Steinbeck,9780143039433,False,2025-03-18
+A Tale of Two Cities,Charles Dickens,9780141439600,False,2025-02-20
+The Sun Also Rises,Ernest Hemingway,9780743297332,False,2025-03-13
+Slaughterhouse-Five,Kurt Vonnegut,9780440180296,False,2025-03-01
+Heart of Darkness,Joseph Conrad,9780486264646,False,2025-02-18
+Madame Bovary,Gustave Flaubert,9780140449129,True,N/A
+The Stranger,Albert Camus,9780679720201,False,2025-03-17
+Catch-22,Joseph Heller,9781451626650,False,2025-02-22
+The Old Man and the Sea,Ernest Hemingway,9780684801223,False,2025-02-28
+One Hundred Years of Solitude,Gabriel García Márquez,9780060883287,False,2025-02-19
+Beloved,Toni Morrison,9781400033416,False,2025-02-23
+The Road,Cormac McCarthy,9780307387899,True,N/A
+On the Road,Jack Kerouac,9780140283297,False,2025-03-09
+The Alchemist,Paulo Coelho,9780061122415,True,N/A
+Gone with the Wind,Margaret Mitchell,9781416548942,False,2025-03-07
+A Clockwork Orange,Anthony Burgess,9780393312836,True,N/A
+Dune,Frank Herbert,9780441013593,False,2025-02-18
+The Lord of the Rings,J.R.R. Tolkien,9780544003415,True,N/A
+The Shining,Stephen King,9780307743657,False,2025-03-08
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,9780345391803,False,2025-02-27
+Harry Potter and the Sorcerer’s Stone,J.K. Rowling,9780590353427,False,2025-03-02
+The Stand,Stephen King,9780307743688,True,N/A
+It,Stephen King,9781501142971,True,N/A
